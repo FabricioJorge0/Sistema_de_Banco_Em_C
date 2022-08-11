@@ -1,1 +1,1 @@
-# Sistema_de_Banco_Em_C
+#  Sistema de um Banco feito em linguagem C, feito durante estudos da faculdade para aperfeiçoamento.
